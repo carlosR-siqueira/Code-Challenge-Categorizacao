@@ -41,12 +41,12 @@ A aplicação realiza os seguintes passos:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/carlosR-siqueira/Code-Challenge-Categorizacao.git
 
 2. Navegue até o diretório do projeto:
  
    ```bash
-   cd seu-repositorio
+   cd \Code Challenge Categorizacao
 
 3. Instale as dependências:
 
