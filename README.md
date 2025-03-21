@@ -60,7 +60,7 @@ A aplicação realiza os seguintes passos:
 
  Ou, para reiniciar automaticamente o servidor durante o desenvolvimento:
 
-    ```npm run dev
+    npm run dev
 
    O servidor estará rodando na porta 3000 por padrão. Você pode acessar os dados categorizados em http://localhost:3000.
 
