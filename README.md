@@ -1,6 +1,13 @@
-# Categorização de Produtos com Firebase e Node.js
+# `Este projeto foi desenvolvido como parte de um Code Challenge do @KINGJOTARO` https://github.com/kingjotaro/challenge01
 
+
+
+
+
+# Categorização de Produtos
 Este projeto busca dados de produtos armazenados no Firebase Realtime Database, os categoriza e disponibiliza esses dados através de uma API usando Node.js e Express. O sistema realiza a categorização dos produtos com base no título e retorna os dados estruturados de maneira categorizada em formato JSON.
+
+
 
 ## Funcionalidade
 
@@ -53,15 +60,14 @@ A aplicação realiza os seguintes passos:
 
  Ou, para reiniciar automaticamente o servidor durante o desenvolvimento:
 
-    ```bash
-   npm run dev
+    ```npm run dev
 
    O servidor estará rodando na porta 3000 por padrão. Você pode acessar os dados categorizados em http://localhost:3000.
 
 
 Estrutura de Dados
 A API retorna os dados dos produtos no seguinte formato JSON:
-
+```bash
 [
   {
     "category": "Categoria do Produto",
